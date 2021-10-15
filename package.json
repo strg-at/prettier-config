@@ -8,6 +8,20 @@
   "files": [
     "index.js"
   ],
+  "peerDependencies": {
+    "prettier": "^2.4.1"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strg-at/prettier-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/strg-at/prettier-config/issues"
+  },
+  "homepage": "https://github.com/strg-at/prettier-config#readme",
   "keywords": [
     "check",
     "enforce",
@@ -24,13 +38,5 @@
     "code format",
     "style checker",
     "style linter"
-  ],
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/strg-at/prettier-config.git"
-  },
-  "bugs": {
-    "url": "https://github.com/strg-at/prettier-config/issues"
-  },
-  "homepage": "https://github.com/strg-at/prettier-config#readme"
+  ]
 }
