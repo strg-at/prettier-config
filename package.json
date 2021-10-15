@@ -3,6 +3,9 @@
   "version": "1.0.0-beta.1",
   "description": "Prettier configuration for STRG.",
   "main": "index.js",
+  "files": [
+    "index.js"
+  ],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/strg-at/prettier-config.git"
