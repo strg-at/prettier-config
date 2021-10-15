@@ -1,0 +1,16 @@
+{
+  "name": "@strg/prettier-config",
+  "version": "1.0.0-beta.1",
+  "description": "Prettier configuration for STRG.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/strg-at/prettier-config.git"
+  },
+  "author": "STRG.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/strg-at/prettier-config/issues"
+  },
+  "homepage": "https://github.com/strg-at/prettier-config#readme"
+}
